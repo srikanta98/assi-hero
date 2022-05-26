@@ -1,0 +1,56 @@
+[  
+
+  {
+    "img":"https://i.ibb.co/FJyTLnd/pop6-grapics.png",
+    "name": "Grapics card",
+    "price": "10000",
+    "description":"Video Card or more commonly known as the graphics card is an expansion card that helps to get the clearest graphics output from your desktop PC.",
+    "quantity":"500",
+    "minQuantity":"100"
+    
+  },
+  {
+    "img":"https://i.ibb.co/4RHrXTg/pop-2.png",
+    "name": "Processor",
+    "price": "10000",
+    "description":"A processor (CPU) is the logic circuitry that responds to and processes the basic instructions that drive a computer.",
+    "quantity":"500",
+    "minQuantity":"100"
+    
+  },
+  {
+    "img":"https://i.ibb.co/TvpHR07/pop-key.png",
+    "name": "Keyboard",
+    "price": "1000",
+    "description":"A computer keyboard is a peripheral input device modeled after the typewriter keyboard ",
+    "quantity":"500",
+    "minQuantity":"100"
+  },
+  {
+    "img":"https://i.ibb.co/wCd3Xqn/5.png",
+    "name": "Intel processor",
+    "price": "20000",
+    "description":"Buy Intel Processor at best price in Bangladesh. Latest 12th gen Intel i3, i5, i7, i9 processors",
+    "quantity":"500",
+    "minQuantity":"100"
+    
+  },
+  {
+    "img":"https://i.ibb.co/HPXKmMZ/pop4.png",
+    "name": "Mouse",
+    "price": "100",
+    "description":"A computer mouse (plural mice, sometimes mouses) is a hand-held pointing device that detects two-dimensional motion",
+    "quantity":"500",
+    "minQuantity":"100"
+    
+  },
+  {
+    "img":"https://i.ibb.co/w7frx85/pop1.png",
+    "name": "Motherboard",
+    "price": "10000",
+    "description":"A motherboard (also called mainboard, main circuit board, mb, mboard, backplane board, base board, system board,",
+    "quantity":"500",
+    "minQuantity":"100"
+    
+  }
+]
